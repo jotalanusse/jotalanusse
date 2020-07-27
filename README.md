@@ -11,7 +11,7 @@ Hi there! My name is Hernan Lanusse but everyone calls me Jota (if you want to k
 - [The Bartender](https://github.com/jotalanusse/the-bartender) - the best Discord bot for sad people.
 
 ⚡ Fun facts:
-- If you can make better pancakes than me you earn my respect.
+- If you can make better pancakes than me you automatically earn my respect.
 - I will work for Bitcoin.
 
 ---
