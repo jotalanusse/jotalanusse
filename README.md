@@ -1,16 +1,18 @@
-### Hi there 👋
+### Welcome (insert your name here) 👋
 
-<!--
-**jotalanusse/jotalanusse** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi there! My name is Hernan Lanusse but everyone calls me Jota (if you want to know why you’ll have hire me). I am 18 years old and as you can see, I’m a programmer. I am currently studying software engineering but meanwhile I look for all sorts of challenges and opportunities, so if you have an interesting project/job don't hesitate on contacting me.
 
-Here are some ideas to get you started:
+- 🔭 I’m currently studying software engineering in the University of Buenos Aires.
+- 🌱 I’m learning microservices and serverless at the moment.
+- 💬 Ask me about Javascript / Typescript, Nodejs/ Expressjs, Mongodb, PostgreSQL, Docker, Microservices, RabbitMQ.
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/jotalanusse), [Email](mailTo:jotalanusse@gmail.com), or even on Discord @ jotalanusse#8766.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 Some of my main public projects (_it ain't much, but it's honest work_):
+- [The Bartender](https://github.com/jotalanusse/the-bartender) - the best Discord bot for sad people.
+
+⚡ Fun facts:
+- If you can make better pancakes than me you earn my respect.
+- I will work for Bitcoin.
+
+---
+⭐️ From [jotalanusse](https://github.com/jotalanusse)
