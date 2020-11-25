@@ -5,7 +5,7 @@ Hi there! My name is Hernan Lanusse but everyone calls me Jota (if you want to k
 - 🔭 I’m currently studying software engineering in the University of Buenos Aires.
 - 🌱 I’m learning microservices and serverless at the moment.
 - 💬 Ask me about Javascript / Typescript, Nodejs/ Expressjs, Mongodb, PostgreSQL, Docker, Microservices, RabbitMQ.
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/jotalanusse), [Email](mailTo:jotalanusse@gmail.com), or even on Discord @ jotalanusse#8766.
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/jotalanusse), [Email](mailTo:jotalanusse@gmail.com), or even on Discord @ jotalanusse#1337.
 
 🚀 Some of my main public projects (_it ain't much, but it's honest work_):
 - [The Bartender](https://github.com/jotalanusse/the-bartender) - the best Discord bot for sad people.
