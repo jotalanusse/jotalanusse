@@ -3,8 +3,8 @@
 
 Hi there! My name is Hernan Lanusse but everyone calls me Jota (if you want to know why you’ll have to hire me). I am 19 years old and as you can see, I’m a programmer. I am currently studying software engineering but meanwhile I look for all sorts of challenges and opportunities, so if you have an interesting project/job don't hesitate to contact me.
 
-- 🔭 I’m currently studying software engineering in the University of Buenos Aires.
-- 🌱 I’m learning Rust the moment.
+- 🔭 I’m currently studying software engineering in the Polytechnic University of Catalonia.
+- 🌱 I’m learning Rust and Kubernetes the moment.
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/jotalanusse), [Email](mailTo:jotalanusse@gmail.com), or even on Discord @jotalanusse#1337.
 
 💬 Ask me anything, but specially about:
