@@ -15,6 +15,7 @@ Hi there! My name is Hernan Lanusse but everyone calls me Jota (if you want to k
 - Linux, Windows, TempleOS (just kidding)
 
 🚀 Some of my main public side projects (_it ain't much, but it's honest work_):
+- [Arduino BadUSB](https://github.com/jotalanusse/arduino-bad-usb) - A cheap and DIY alternative to the Hak5 Rubber Ducky.
 - [The Bartender](https://github.com/jotalanusse/the-bartender) - The best Discord bot for sad people (satire project).
 - [Minety](https://github.com/jotalanusse/minety) - A set of tools and utilities for Minecraft (fun?).
 
