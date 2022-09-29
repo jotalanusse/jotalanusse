@@ -8,7 +8,7 @@ Hi there! My name is Hernan Lanusse but everyone calls me Jota (if you want to k
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/jotalanusse), [Personal email](mailto:jotalanusse@gmail.com?subject=Hi%20Jota!%20let's%20talk), [Business email](mailto:hernanjorgelanusse@gmail.com?subject=Hi%20Hernan!%20let's%20talk), or even on Discord @jotalanusse#1337.
 
 💬 Ask me anything, but specially about:
-- JavaScript / TypeScript, C#, SQL, Python, Java, Rust
+- JavaScript / TypeScript, C#, SQL, Python, Java, Rust, Lua
 - NodeJs, ExpressJs / NestJs, WPF, .NET
 - MongoDB, PostgreSQL, MySQL
 - Docker, Microservices, RabbitMQ
