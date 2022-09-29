@@ -1,7 +1,7 @@
 
 ### Welcome (insert your name here) 👋
 
-Hi there! My name is Hernan Lanusse but everyone calls me Jota (if you want to know why you’ll have to hire me). I am 19 years old and as you can see, I’m a programmer. I am currently studying software engineering but meanwhile I look for all sorts of challenges and opportunities, so if you have an interesting project/job don't hesitate to contact me.
+Hi there! My name is Hernan Lanusse but everyone calls me Jota (if you want to know why you’ll have to hire me). I am 20 years old and as you can see, I’m a programmer. I am currently studying software engineering but meanwhile I look for all sorts of challenges and opportunities, so if you have an interesting project/job don't hesitate to contact me.
 
 - 🔭 I’m currently studying software engineering in the Polytechnic University of Catalonia.
 - 🌱 I’m learning Rust and Kubernetes the moment.
