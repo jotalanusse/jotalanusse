@@ -5,7 +5,7 @@ Hi there! I'm Jota Lanusse (my actual name is Hernan). I am 20.8 years old and a
 
 - 🔭 I’m currently studying software engineering at the **Polytechnic University of Catalonia**.
 - 🌱 I’m learning **Design of Data-Intensive Applications** at the moment.
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/jotalanusse), [Personal email](mailto:jotalanusse@gmail.com?subject=Hi%20Jota!%20let's%20talk), [Business email](mailto:jota@moonara.io?subject=Hi%20Jota!%20let's%20talk), or even on Discord @ [jotalanusse#1337](https://discordapp.com/users/322189982557143041).
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/jotalanusse), [Personal email](mailto:jotalanusse@gmail.com?subject=Hi%20Jota!%20let's%20talk), [Business email](mailto:jota@moonara.io?subject=Hi%20Jota!%20let's%20talk), or even on Discord @ [jotalanusse](https://discordapp.com/users/322189982557143041).
 
 💬 Ask me anything, but specially about:
 - TypeScript (Js), C#, SQL, Python, Java, Rust, Lua
