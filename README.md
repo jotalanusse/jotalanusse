@@ -20,6 +20,7 @@ Hi there! I'm Jota Lanusse (my actual name is Hernan). I am 20.8 years old and a
 - [SledBuild Remastered](https://github.com/jotalanusse/sledbuild-remastered) - A remake of one of the most creative GMod gamemodes.
 - [The Bartender](https://github.com/jotalanusse/the-bartender) - The best Discord bot for sad people (satire project).
 - [Minety](https://github.com/jotalanusse/minety) - A set of tools and utilities for Minecraft (fun?).
+- [Hoult](https://github.com/jotalanusse/hoult) - Scrapping the internet for fun and profit (coming soon).
 
 ⚡ Fun facts:
 - If you can make better pancakes than me (_proved to be impossible_) you automatically earn my respect.
