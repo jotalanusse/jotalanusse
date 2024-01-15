@@ -1,7 +1,7 @@
 
 ### Welcome (insert your name here) 👋
 
-Hi there! I'm Jota Lanusse (my actual name is Hernan). I am 20.8 years old and as you can see, I’m a programmer. At the moment I'm studying software engineering, but meanwhile I look for all sorts of challenges and opportunities, so if you have an interesting project/job don't hesitate to contact me.
+Hi there! I'm Jota Lanusse (my actual name is Hernan). I am 22.1 years old and as you can see, I’m a programmer. At the moment I'm studying software engineering, but meanwhile I look for all sorts of challenges and opportunities, so if you have an interesting project/job don't hesitate to contact me.
 
 - 🔭 I’m currently studying software engineering at the **Polytechnic University of Catalonia**.
 - 🌱 I’m learning **Design of Data-Intensive Applications** at the moment.
