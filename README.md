@@ -1,7 +1,7 @@
 
 ### Welcome (insert your name here) 👋
 
-Hi there! I'm Jota Lanusse (my actual name is Hernan). I am 22.1 years old and as you can see, I’m a programmer. At the moment I'm studying software engineering, but meanwhile I look for all sorts of challenges and opportunities, so if you have an interesting project/job don't hesitate to contact me.
+Hi there! I'm Jota Lanusse, I am 22.6 years old and as you can see, I’m a programmer. At the moment I'm studying software engineering, but meanwhile I look for all sorts of challenges and opportunities, so if you have an interesting project/job don't hesitate to contact me.
 
 - 🔭 I’m currently studying software engineering at the **Polytechnic University of Catalonia**.
 - 🌱 I’m learning **Design of Data-Intensive Applications** at the moment.
@@ -9,13 +9,13 @@ Hi there! I'm Jota Lanusse (my actual name is Hernan). I am 22.1 years old and a
 
 💬 Ask me anything, but specially about:
 - TypeScript (Js), C#, SQL, Python, Java, Rust, Lua
-- NodeJs, ExpressJs / NestJs, WPF, .NET
-- MongoDB, PostgreSQL, MySQL
-- Docker, Microservices, RabbitMQ
+- .NET, WPF, WinUI, Avalonia UI
+- NodeJs, PostgreSQL, MongoDB, MySQL
+- Docker, Kubernetes, Microservices, RabbitMQ
 - Linux, Windows, TempleOS (just kidding)
 
 🚀 Some of my main public side projects (_it ain't much, but it's honest work_):
-- [JbLog](https://jotalanusse.github.io) - My personal website and blog.
+- [JbLog](https://jotalanusse.dev) - My personal website and blog.
 - [Arduino BadUSB](https://github.com/jotalanusse/arduino-bad-usb) - A cheap and DIY alternative to the Hak5 Rubber Ducky.
 - [SledBuild Remastered](https://github.com/jotalanusse/sledbuild-remastered) - A remake of one of the most creative GMod gamemodes.
 - [The Bartender](https://github.com/jotalanusse/the-bartender) - The best Discord bot for sad people (satire project).
