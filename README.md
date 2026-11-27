@@ -16,7 +16,7 @@ Hi there! I'm Jota Lanusse, I am 25.0 years old and as you can see, I’m a prog
 
 🚀 Some of my main public projects:
 - [Oceanite](https://oceanite.io) - Scraping the deepest parts of the internet (coming soon).
-- Solar - The project I'm working on right now (coming soon).
+- [Soular](https://github.com/jotalanusse/soular) - The project I'm working on right now (coming soon).
 - [SledBuild Remastered](https://github.com/jotalanusse/sledbuild-remastered) - A remake of one of the most creative GMod gamemodes.
 
 ⚡ Fun facts:
