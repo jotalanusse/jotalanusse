@@ -14,14 +14,10 @@ Hi there! I'm Jota Lanusse, I am 25.0 years old and as you can see, I’m a prog
 - Docker, Kubernetes, Microservices, RabbitMQ
 - Linux, Windows, TempleOS (just kidding)
 
-🚀 My public open-source project
-
+🚀 Some of my main public projects:
+- [Oceanite](https://oceanite.io) - Scraping the deepest parts of the internet (coming soon).
+- Solar - The project I'm working on right now (coming soon).
 - [SledBuild Remastered](https://github.com/jotalanusse/sledbuild-remastered) - A remake of one of the most creative GMod gamemodes.
-
-🔭 Upcoming projects
-
-- [Oceanite](https://oceanite.io) · `Upcoming` — Scraping the deepest parts of the internet.
-- **Solar** · `Upcoming` — The project I’m working on right now.
 
 ⚡ Fun facts:
 - If you can make better pancakes than me (_proved to be impossible_) you automatically earn my respect.
