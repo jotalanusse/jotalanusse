@@ -1,7 +1,7 @@
 
 ### Welcome (you) 👋
 
-Hi there! I'm Jota Lanusse, I am 22.3 years old and as you can see, I’m a programmer. I look for all sorts of challenges and opportunities, so if you have an interesting project/job don't hesitate to contact me.
+Hi there! I'm Jota Lanusse, I am 25.0 years old and as you can see, I’m a programmer. I look for all sorts of challenges and opportunities, so if you have an interesting project/job don't hesitate to contact me.
 
 - 🔭 Former Software Engineering student at the **Polytechnic University of Catalonia**.
 - 🌱 I’m learning **Distributed Systems** at the moment.
@@ -14,13 +14,11 @@ Hi there! I'm Jota Lanusse, I am 22.3 years old and as you can see, I’m a prog
 - Docker, Kubernetes, Microservices, RabbitMQ
 - Linux, Windows, TempleOS (just kidding)
 
-🚀 Some of my main public projects:
-- [JbLog](https://jotalanusse.dev) - My personal website and blog.
-- [Oceanite](https://oceanite.io) - Scraping the deepest parts of the internet (coming soon).
+🚀 My public open-source project
+
 - [SledBuild Remastered](https://github.com/jotalanusse/sledbuild-remastered) - A remake of one of the most creative GMod gamemodes.
-- [Arduino BadUSB](https://github.com/jotalanusse/arduino-bad-usb) - A cheap and DIY alternative to the Hak5 Rubber Ducky.
-- [The Bartender](https://github.com/jotalanusse/the-bartender) - The best Discord bot for sad people (satire project).
-- [Minety](https://github.com/jotalanusse/minety) - A set of tools and utilities for Minecraft (fun?).
+
+🔭 Currently building **Solar** · `Upcoming`
 
 ⚡ Fun facts:
 - If you can make better pancakes than me (_proved to be impossible_) you automatically earn my respect.
